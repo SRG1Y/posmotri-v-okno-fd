@@ -1,1 +1,1 @@
-https://github.com/SRG1Y/posmotri-v-okno-fd#
+https://github.com/SRG1Y/posmotri-v-okno-fd
