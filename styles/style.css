@@ -31,7 +31,7 @@ video {
   width: 100%;
 }
 
-/* Utility classes */
+/* Видимое не видимое */
 
 .visually-hidden {
   position: absolute;
@@ -43,7 +43,7 @@ video {
   white-space: nowrap;
 }
 
-/* Styles */
+/* Мое */
 
 .page {
   display: flex;
